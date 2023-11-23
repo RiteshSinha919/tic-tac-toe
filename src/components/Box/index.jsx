@@ -1,4 +1,4 @@
-import "./index.css";
+import './index.css'
 
 const Box = (props) => {
   const { value, onSquare } = props;
